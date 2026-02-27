@@ -1,5 +1,9 @@
 # Change log
 
+## 3.0.1
+
+- Updated Blackfire to version 1.92.60.
+
 ## 3.0.0
 
 - Bref v3 compatibility.
